@@ -1,5 +1,5 @@
 # convert2rhel
-Configuration files to convert to RHEL
+Configuration files to convert Springdale Linux to RHEL
 
 1. Obtain a RHEL subscription
 2. Download the tool from https://github.com/oamg/convert2rhel/releases
